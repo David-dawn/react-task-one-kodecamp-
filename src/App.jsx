@@ -8,7 +8,7 @@ function App() {
       <ProfileCard
         name="Amosu David"
         img="/PD.jpg"
-        bio="Creative Frontend Developer with a passion for crafting stunning, responsive, and user-focused interfaces that deliver seamless digital experiences."
+        bio="A Creative Frontend Developer with a passion for crafting stunning, responsive, and user-focused interfaces that deliver seamless digital experiences."
       />
     </div>
   );
