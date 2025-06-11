@@ -1,0 +1,34 @@
+/* src/components/ProfileCard.css */
+
+.profile-card {
+  width: 320px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: center;
+  font-family: sans-serif;
+  color: #fff;
+  transition: 0.3s ease;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+  border: 2px solid #fff;
+}
+
+.profile-name {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
+
+.profile-bio {
+  font-size: 1rem;
+  line-height: 1.4;
+}
